@@ -2,8 +2,6 @@
 
 A beautiful, responsive Pokédex web application built with vanilla HTML, CSS, and JavaScript. Search for your favorite Pokémon and discover their stats, types, and abilities!
 
-![Pokédex Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=Pok%C3%A9dex+App+Screenshot)
-
 ---
 
 ## ✨ Features
@@ -168,25 +166,7 @@ This project uses [**PokéAPI**](https://pokeapi.co/) for Pokemon data:
 - Some older Pokemon may have missing official artwork
 - Very long Pokemon names might overflow on small screens *(handled with responsive design)*
 
----
 
-## 🔮 Future Enhancements
-
-- [ ] Pokemon evolution chains
-- [ ] Favorite Pokemon list (localStorage)
-- [ ] Battle calculator  
-- [ ] Pokemon comparison tool
-- [ ] Advanced search filters
-- [ ] Offline mode with service worker
-- [ ] Dark/light theme toggle
-- [ ] Sound effects and animations
-- [ ] Pokemon team builder
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
